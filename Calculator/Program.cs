@@ -1,1 +1,4 @@
-﻿
+﻿using Calculator;
+
+Screen.Menu();
+
